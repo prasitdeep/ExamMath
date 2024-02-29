@@ -20,7 +20,7 @@ var prename = $('#prename')
 var fname = $('#fname')
 var sname = $('#sname')
 
-var subjectNow = 'เก็บคะแนนก่อนปลายภาค 2/66'
+var subjectNow = 'สอบปลายภาคเรียนที่ 2/66'
 var nTodo = 5 //กำหนดจำนวนข้อสอบที่จะให้นักเรียนทำ
 
 //ส่วน info แสดงหน้าจอแรก
